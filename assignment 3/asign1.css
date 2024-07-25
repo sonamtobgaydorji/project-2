@@ -1,0 +1,70 @@
+/* header start */
+.header_section{
+    background-color: aquamarine;
+    width: 100%;
+    border: 1px solid black;
+}
+.h_container{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    margin-left: 20px;
+    width:20%;}
+ nav>ul{
+    list-style-type: none;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.h_container>.nav_menu{
+    width: 60%;
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+} */
+/* header ends */
+
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    height: 400px;
+    
+    
+    
+    
+
+}
+.hero_section .container >h1 {
+    text-align: center;
+    
+}
+.cards .cards_container div{
+    border: 1px solid black;
+}
+.cards .cards_container{
+    display: flex;
+    flex-wrap:wrap;
+    text-align: center;
+    justify-content: space-around;
+    padding: 100px;
+    gap: 20px;
+    
+}
+.single_cards, .single_cards1, .single_cards2, .single_cards3, .single_cards4{
+    padding: 40px;
+    width: 25%;
+    border-radius: 4px;
+    background-color: azure;
+  
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
